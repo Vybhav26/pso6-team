@@ -1,4 +1,4 @@
 Team members: Vybhav26 and rajJayakumar
 Favorite programming language: Java
-Team motto: In Git we Trust
+Team motto: In CS we Trust
 
